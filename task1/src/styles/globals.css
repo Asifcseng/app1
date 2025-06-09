@@ -1,0 +1,24 @@
+.counter-app {
+  display: block;
+  background-color: #edc65a;
+}
+.heading {
+  text-align: center;
+}
+
+.counter-body {
+  display: flex;
+}
+
+.counter-btn {
+  padding: 20px;
+  font-size: large;
+  background-color: gray;
+}
+.counter {
+  font-size: 32px;
+  font-weight: bolder;
+  padding: 20px;
+  margin: auto;
+  color: #ed1f45;
+}
